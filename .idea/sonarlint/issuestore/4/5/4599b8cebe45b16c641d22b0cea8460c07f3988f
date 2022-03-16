@@ -1,0 +1,11 @@
+
+]
+java:S3457¹"AFormat specifiers should be used instead of string concatenation.(¯ßÓ˜ùÿÿÿÿ
+<
+java:S2129Ï" Remove this "String" constructor(Ðßºåùÿÿÿÿ
+<
+java:S2129ä" Remove this "String" constructor(Ðßºåùÿÿÿÿ
+k
+java:S1192ˆ"TDefine a constant instead of duplicating this literal " where username = '" 3 times.(õàœŸ
+k
+java:S1192‡"ODefine a constant instead of duplicating this literal "select * from " 7 times.(Óí†¿üÿÿÿÿ

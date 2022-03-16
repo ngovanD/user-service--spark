@@ -1,0 +1,13 @@
+
+`	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ê“Åıÿÿÿÿ
+U
+java:S1118
+":Add a private constructor to hide the implicit public one.(¿‚‡áşÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(„Ø¤ÿşÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.io.FileInputStream'.(˜³ÉÓ
+D
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ
+D
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›

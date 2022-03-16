@@ -1,0 +1,4 @@
+
+[	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(ÊÂ€Ô
+[
+java:S2259×"DA "NullPointerException" could be thrown; "orElse" is nullable here.(ô°ßù

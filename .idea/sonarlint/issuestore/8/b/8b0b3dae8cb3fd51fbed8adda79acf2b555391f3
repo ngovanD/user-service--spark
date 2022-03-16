@@ -1,0 +1,13 @@
+
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÞßÇôøÿÿÿÿ
+l
+java:S1192"QDefine a constant instead of duplicating this literal "application/json" 6 times.(—÷ÇÉøÿÿÿÿ
+h
+java:S1192X"RDefine a constant instead of duplicating this literal "api/v1.0/user/:id" 4 times.(ŽÌÎ†
+R
+java:S4973B"<Strings and Boxed types should be compared using "equals()".(ú‘  
+R
+java:S4973C"<Strings and Boxed types should be compared using "equals()".(·½…È
+W
+java:S4973D"<Strings and Boxed types should be compared using "equals()".(”æÄÿÿÿÿÿ
